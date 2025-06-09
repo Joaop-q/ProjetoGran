@@ -1,0 +1,22 @@
+{
+  "name": "projetogran",
+  "version": "1.0.0",
+  "description": "menager APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "(app.js)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joaop-q/ProjetoGran.git"
+  },
+  "keywords": [
+    "2312"
+  ],
+  "author": "João Queiroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joaop-q/ProjetoGran/issues"
+  },
+  "homepage": "https://github.com/Joaop-q/ProjetoGran#readme"
+}
